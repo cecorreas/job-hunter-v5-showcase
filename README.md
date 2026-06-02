@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/Google_Cloud-Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP Cloud Run">
   <img src="https://img.shields.io/badge/Gemini_2.5-Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 2.5">
   <img src="https://img.shields.io/badge/Mercado_Pago-Pagos-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" alt="Mercado Pago">
-  <img src="https://img.shields.io/badge/Status-Proprietary_%2F_Closed--Source-000000?style=for-the-badge" alt="Closed Source">
+  <img src="https://img.shields.io/badge/Firestore-Database-FF6D00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firestore">
+  <img src="https://img.shields.io/badge/Vertex_AI-Gemini-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/Closed--Source-Proprietary-1a1a2e?style=for-the-badge&logoColor=white" alt="Closed Source">
 </p>
 
 ---
